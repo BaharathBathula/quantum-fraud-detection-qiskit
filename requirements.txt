@@ -1,1 +1,7 @@
-
+qiskit
+qiskit-machine-learning
+qiskit-ibm-runtime
+scikit-learn
+pandas
+numpy
+matplotlib
