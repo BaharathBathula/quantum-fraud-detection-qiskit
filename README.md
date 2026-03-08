@@ -43,3 +43,17 @@ Fraud Prediction
 
 ## Project Structure
 
+data/ → datasets
+notebooks/ → experiments
+src/ → core code
+results/ → outputs
+docs/ → research notes
+
+---
+
+## Future Work
+
+- Variational Quantum Classifier
+- Quantum Neural Networks
+- Comparison with classical ML models
+- Real quantum hardware experiments
