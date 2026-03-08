@@ -1,59 +1,30 @@
-# quantum-fraud-detection-qiskit
-Quantum Machine Learning for Financial Fraud Detection using Qiskit.  This project demonstrates hybrid quantum-classical models using quantum kernels and SVM for fraud detection.
+# Quantum Fraud Detection using Qiskit
 
 ## Overview
+This project explores quantum machine learning for financial fraud detection using Qiskit.
 
-This project explores how **quantum machine learning** can be used to detect fraudulent financial transactions.
-
-We implement a **hybrid quantum-classical model** using:
-
+A hybrid workflow is implemented with:
 - Quantum feature maps
-- Quantum kernels
-- Support Vector Machines
+- Fidelity-based quantum kernels
+- Quantum Support Vector Classification (QSVC)
+- Classical SVM baseline for comparison
 
-The objective is to demonstrate how quantum computing can improve pattern detection in complex datasets.
-
----
-
-## Architecture
-
-Dataset  
-↓  
-Data Preprocessing  
-↓  
-Quantum Feature Encoding  
-↓  
-Quantum Kernel Computation  
-↓  
-SVM Classification  
-↓  
-Fraud Prediction
-
----
+## Project Goals
+- Demonstrate quantum kernel methods on tabular data
+- Compare quantum and classical classification performance
+- Build a professional research-style GitHub project
 
 ## Tech Stack
-
-- Qiskit
 - Python
+- Qiskit
+- Qiskit Machine Learning
 - Scikit-learn
 - Pandas
 - Matplotlib
 
----
-
 ## Project Structure
-
-data/ → datasets
-notebooks/ → experiments
-src/ → core code
-results/ → outputs
-docs/ → research notes
-
----
-
-## Future Work
-
-- Variational Quantum Classifier
-- Quantum Neural Networks
-- Comparison with classical ML models
-- Real quantum hardware experiments
+```text
+notebooks/   # experiments and notebook workflow
+results/     # saved outputs and metrics
+src/         # reusable training scripts
+docs/        # project notes and explanations
