@@ -28,3 +28,5 @@ notebooks/   # experiments and notebook workflow
 results/     # saved outputs and metrics
 src/         # reusable training scripts
 docs/        # project notes and explanations
+
+A professional quantum machine learning project demonstrating fraud detection with Qiskit, QSVC, and classical baseline comparison.
