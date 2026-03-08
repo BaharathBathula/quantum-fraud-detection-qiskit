@@ -78,6 +78,14 @@ Hybrid quantum-classical machine learning
 
 Professional GitHub project structuring
 
+## Citation
+
+If you reference this project in research or educational work, please cite:
+
+Baharath Bathula  
+Quantum Fraud Detection using Qiskit  
+GitHub Repository
+
 Research-oriented experimentation
 
 Strong portfolio value for AI / Data / Emerging Tech roles
