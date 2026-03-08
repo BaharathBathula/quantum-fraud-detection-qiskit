@@ -50,37 +50,11 @@ QSVC Classification
     ↓
 Fraud Prediction & Evaluation
 
-Key Notes
+## Key Notes
 
 Quantum kernel methods are computationally expensive.
 For that reason, this repository uses a small balanced sample for demonstration and proof-of-concept experimentation.
 
 This is intentional and reflects realistic constraints of current quantum machine learning workflows.
-
-Future Improvements
-
-Add ROC-AUC and precision-recall analysis
-
-Compare with Logistic Regression and XGBoost
-
-Test alternative quantum feature maps
-
-Integrate IBM Quantum Runtime
-
-Extend toward hybrid production-grade fraud analytics
-
-Why this project matters
-
-This repository demonstrates:
-
-Applied quantum computing concepts
-
-Hybrid quantum-classical machine learning
-
-Professional GitHub project structuring
-
-Research-oriented experimentation
-
-Strong portfolio value for AI / Data / Emerging Tech roles
 
 
