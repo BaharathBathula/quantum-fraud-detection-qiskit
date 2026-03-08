@@ -35,7 +35,6 @@ The project is designed as a **proof-of-concept research portfolio project** and
 
 ## Architecture
 
-```text
 Fraud Dataset
     ↓
 Data Sampling & Preprocessing
